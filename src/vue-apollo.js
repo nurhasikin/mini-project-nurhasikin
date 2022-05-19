@@ -21,7 +21,7 @@ const defaultOptions = {
   // Use `null` to disable subscriptions
   wsEndpoint:
     process.env.VUE_APP_GRAPHQL_WS ||
-    "ws://precious-donkey-34.hasura.app/v1/graphql",
+    "wss://precious-donkey-34.hasura.app/v1/graphql",
   // LocalStorage token
   tokenName: AUTH_TOKEN,
   // Enable Automatic Query persisting with Apollo Engine
