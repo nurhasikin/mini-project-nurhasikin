@@ -10,7 +10,7 @@
 
           <div class="carousel-caption" style="margin-top: -1000px">
             <h1 style="color: #f38ba0">
-              <strong>Ki KiBeauty</strong>
+              <strong>KiBeauty.</strong>
             </h1>
             <p style="color: white">
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae sint

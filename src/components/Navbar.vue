@@ -7,7 +7,7 @@
         style="padding-left: 20px"
         fixed="top"
       >
-        <b-navbar-brand>KiBeauty</b-navbar-brand>
+        <b-navbar-brand>KiBeauty.</b-navbar-brand>
 
         <b-navbar-toggle target="nav-collapse"></b-navbar-toggle>
 
