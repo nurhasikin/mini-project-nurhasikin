@@ -1,0 +1,8 @@
+query MyQuery {
+  perawatan {
+    id
+    name
+    price
+    image_path
+  }
+}

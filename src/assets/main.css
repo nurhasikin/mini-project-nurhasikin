@@ -1,0 +1,64 @@
+#app {
+  font-family: "Montserrat", sans-serif;
+}
+.pb-130 {
+  padding-bottom: 130px;
+}
+.pt-125 {
+  padding-top: 125px;
+}
+footer,
+header,
+nav,
+section {
+  display: block;
+}
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+*,
+::after,
+::before {
+  box-sizing: border-box;
+}
+user agent stylesheet section {
+  display: block;
+}
+
+.navbar.navbar-dark.bg-dark {
+  background-color: #f38ba0 !important;
+}
+.documentation footer {
+  padding-left: 0;
+}
+.fixed-sn .double-nav,
+.fixed-sn main,
+.fixed-sn footer {
+  padding-left: 15rem;
+}
+footer.page-footer {
+  bottom: 0;
+  color: #fff;
+}
+.font-small {
+  font-size: 0.9rem;
+}
+.unique-color-dark {
+  background-color: #f38ba0 !important;
+}
+footer,
+section {
+  display: block;
+}
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+user agent stylesheet footer {
+  display: block;
+}

@@ -1,0 +1,10 @@
+query MyQuery {
+  product {
+    id
+    image_path
+    brand
+    name
+    description
+    price
+  }
+}
